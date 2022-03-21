@@ -1,0 +1,19 @@
+.odd {
+  background-color: #fec5bb;
+  font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+#first {
+  color: #219ebc;
+  font-size: 36px;
+}
+
+.odd.half {
+  font-size: 24px;
+}
+
+#second {
+  background-color: #99d98c;
+  font-size: 24px;
+  font-weight: 900;
+}
